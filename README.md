@@ -1,7 +1,5 @@
 # Personal-Portfolio
 
-# Portfolio Website
-
 A personal portfolio website to showcase your skills, projects, and resume.
 
 ## Features
